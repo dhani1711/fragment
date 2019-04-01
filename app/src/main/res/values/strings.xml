@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment_Dhani</string>
+    <string name="show_fragment_1">Show Fragment 1</string>
+    <string name="show_fragment_2">Show Fragment 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_second">Second Fragment</string>
+</resources>
